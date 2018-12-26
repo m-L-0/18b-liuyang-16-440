@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 26 15:11:42 2018
 
-@author: 李栋良
-"""
 import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
